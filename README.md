@@ -3,6 +3,7 @@
 Texto de ejemplo
 
 ![](img/churumbel.jpg)
+![](maxresdefault.jpg)
 
 ~~texto tachado~~
 
