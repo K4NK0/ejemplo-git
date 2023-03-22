@@ -19,7 +19,9 @@ public class Revolver{
 
 |horas|lunes|martes|miercoles|jueves|viernes|
 |-----|-----|------|---------|------|-------|
-|8-9|churro|ads|
+|8-9|fol|fol|programacion|programacion|programacion|
+|9-10|fol|lenguaje de marcas|lenguaje de marcas|base de datos|programacion|
+|10-11|sistemas informaticos|entornos|entornos|base de datos|programacion|
 
 
 
