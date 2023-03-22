@@ -17,9 +17,9 @@ public class Revolver{
 
 ````
 
-|uno|dos|tres|
-|---|---|----|
-|ejp1|churro|ads|
+|horas|lunes|martes|miercoles|jueves|viernes|
+|-----|-----|------|---------|------|-------|
+|8-9|churro|ads|
 
 
 
